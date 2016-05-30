@@ -1,5 +1,5 @@
 package bean;
-
+//First Commit to be reflected
 public class User {
 	
 	private String ID,Name,Email,Company,Password,CreationDate,CreationTime,Uname;  
