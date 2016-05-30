@@ -1,5 +1,5 @@
 package bean;
-
+//commit is the stage 
 public class User {
 	
 	private String ID,Name,Email,Company,Password,CreationDate,CreationTime,Uname;  
